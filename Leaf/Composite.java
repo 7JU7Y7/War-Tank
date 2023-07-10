@@ -16,7 +16,7 @@ public class Composite implements Component{
     @Override
     public int count() {
         int sum = 0;
-        int d = 9;
+
         for(Component counter : counterList){
             sum += counter.count();
         }

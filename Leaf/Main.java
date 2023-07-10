@@ -9,6 +9,8 @@ public class Main {
         China.add(Mongolia);
         int c = 1;
 
+        String hhh = "hhhhhhaaaaaaaaa";
+
         System.out.println(China.count());
     }
 }
