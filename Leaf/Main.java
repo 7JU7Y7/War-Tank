@@ -7,6 +7,9 @@ public class Main {
         Mongolia.add(new Leaf(100));//包头
 
         China.add(Mongolia);
+        int c = 1;
+
+        String hhh = "hhhhhhaaaaaaaaa";
 
         System.out.println(China.count());
     }
